@@ -29,10 +29,15 @@
   - Highly interactive platform with the following functionalities:
     - Adding, updating, and deleting comments.
     - Displaying and adding favorite pieces to a personalized favorite collection page.
+    - authentication. 
+    - search for any art piece by artist name or place.
+    - dark and light mode.
+    
+
 
 # - API URL
 
-- (<https://collectionapi.metmuseum.org/public/collection/v1/objects>)
+- (https://openaccess-api.clevelandart.org/api/artworks)
 
 # - trello App
 
@@ -41,13 +46,29 @@
 # Wire Frames
 
 - Home
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.43.17%20PM%20(3).jpeg)
 
-![WRRC](./assets/home.jpg)
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.43.17%20PM%20(1).jpeg)
 
-- Art Details
+- favorite page
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.43.17%20PM.jpeg)
 
-![WRRC](./assets/artDetails.jpg)
+- Favorite (plus button)
 
-- Favorite Page
 
-![WRRC](./assets/favoritePage.jpg)
+
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.43.16%20PM%20(1).jpeg)
+
+
+
+- about us page
+
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.43.16%20PM.jpeg)
+
+
+- profile page
+![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.50.05%20PM.jpeg)
+ - dropdown list
+ ![WRRC](./assets/WhatsApp%20Image%202023-07-30%20at%209.50.05%20PM%20(1).jpeg)
+
+
